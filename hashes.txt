@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Silk & Smoke, Vol. 3
+
+This log tracks the cryptographic history and versioning for the song **Silk & Smoke, Vol. 3** (silk-smoke-vol-3).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T16:10:30.210011 | `v1` | `b97567c3bcc12b15ae2af7d16572b3968b3f8278ece9aa37e7379d23b5ed6c6e` | `9a73c1577a50a7f2800d9fbed8980294ca96e4530311c169ba8801cd5a6c1d21` | `2026-06-10_silk-smoke-vol-3-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
